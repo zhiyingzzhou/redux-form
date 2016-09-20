@@ -1,2 +1,2 @@
-# Website for [redux-form.com](http://redux-form.com)
+# Website for [redux-form.com](https://redux-form.com)
 
