@@ -41,7 +41,7 @@ const promises = []
 const publish = (pages, breadcrumbs = []) =>
   forIn(pages, ({ file, title, children }, path) => {
     const dest = `${version}${path}`
-    const breadcrumb = { path: `http://redux-form.com/${dest}`, title }
+    const breadcrumb = { path: `https://redux-form.com/${dest}`, title }
     promises.push(fetch(file)
       .then(response => mkdir(dest)
         .then(() => writeFile(
