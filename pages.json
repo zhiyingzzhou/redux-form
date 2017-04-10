@@ -39,6 +39,10 @@
             "file": "/docs/faq/HowToClear.md",
             "title": "How can I clear my form after my submission succeeds?"
           },
+          "/docs/faq/HowToConnect.md": {
+            "file": "/docs/faq/HowToConnect.md",
+            "title": "How do I `mapStateToProps` or `mapDispatchToProps`?"
+          },
           "/docs/faq/ReactNative.md": {
             "file": "/docs/faq/ReactNative.md",
             "title": "Does `redux-form` work with React Native?"
