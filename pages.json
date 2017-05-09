@@ -23,6 +23,10 @@
         "file": "/docs/faq/README.md",
         "title": "FAQ",
         "children": {
+          "/docs/faq/BundleSize.md": {
+            "file": "/docs/faq/BundleSize.md",
+            "title": "How to reduce `redux-form`'s bundle size?"
+          },
           "/docs/faq/CustomComponent.md": {
             "file": "/docs/faq/CustomComponent.md",
             "title": "Will `redux-form` work with a my custom input component?"
