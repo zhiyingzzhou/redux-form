@@ -22,11 +22,12 @@
   "homepage": "https://redux-form.com",
   "dependencies": {
     "http-client": "^4.3.1",
+    "isomorphic-fetch": "^2.2.1",
     "lodash.forin": "^4.0.1",
     "mkdirp": "^0.5.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "redux-form-website-template": "0.0.42"
+    "redux-form-website-template": "0.0.44"
   },
   "devDependencies": {
     "babel-cli": "^6.6.4",

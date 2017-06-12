@@ -1,6 +1,7 @@
 import React from 'react'
 import fs from 'fs'
 import { Markdown, render } from 'redux-form-website-template'
+import 'isomorphic-fetch'
 import { createFetch, base, accept, parseText } from 'http-client'
 import mkdirp from 'mkdirp'
 import forIn from 'lodash.forin'
